@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @felipeortx
-- 👀 I’m interested in conding and fullstack developement
+- 👀 I’m interested in coding and fullstack developement
 - 🌱 I’m currently learning ReactJs and NodeJs
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me: feseixas@hotmail.com
